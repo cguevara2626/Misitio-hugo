@@ -1,0 +1,5 @@
+baseURL = "http://example.com/"
+languageCode = "es"
+title = "Primeros pasos con Hugo"
+theme = "tale"
+
